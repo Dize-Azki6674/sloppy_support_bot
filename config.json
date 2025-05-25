@@ -1,0 +1,5 @@
+{
+	"applicationId": "ここにapplication IDを入力",
+	"guildId": "ここに導入するDiscordサーバーのguild IDを入力",
+	"token": "ここにBotのTokenを入力"
+}

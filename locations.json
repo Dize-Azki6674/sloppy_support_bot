@@ -1,0 +1,2912 @@
+[
+    {
+        "area": "モンド",
+        "type": "7S",
+        "description": "星落ちの谷 星落としの湖"
+    },
+    {
+        "area": "モンド",
+        "type": "7S",
+        "description": "風唸りの丘 風立ちの地"
+    },
+    {
+        "area": "モンド",
+        "type": "7S",
+        "description": "蒼風の高地 アカツキワイナリー北"
+    },
+    {
+        "area": "モンド",
+        "type": "7S",
+        "description": "明冠山地 風龍廃墟"
+    },
+    {
+        "area": "モンド",
+        "type": "7S",
+        "description": "ドラゴンスパイン 雪葬の都・旧宮"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "望風海角"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "望風山地"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "星拾いの崖下の浜"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "モンド城前十字路"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "モンド城噴水上"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "モンド城騎士団屋上"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "千風の神殿西"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "鷹飛びの浜北"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "ダダウパの谷西"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "誓いの岬"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "ドラゴンスパイン前キャンプ地"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "清泉町北入口"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "清泉町池小島"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "奔狼領東"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "奔狼領北"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "明冠峡谷"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "風龍廃墟東"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "風龍廃墟西"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "風龍廃墟南"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "風龍廃墟北"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "風龍廃墟中央の塔"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "アカツキワイナリー西"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "龍眠の谷 川の北"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "龍眠の谷 無相の氷前"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "龍眠の谷 崖の上"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "積雪の道"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "雪葬の都・近郊 北"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "雪葬の都・近郊 南"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "雪葬の都・旧宮 洞窟入口付近"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "星蛍の洞窟 入口"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "ドラゴンスパイン頂上付近"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "ドラゴンスパイン南側中腹"
+    },
+    {
+        "area": "モンド",
+        "type": "WP",
+        "description": "ドラゴンスパイン 東小島"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "仲夏の庭園(聖遺物怒り・尊者)"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "銘記の谷(聖遺物翠緑・少女)"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "フィンドニールの頂上(聖遺物氷風・沈淪)"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "山脊の見守り(聖遺物千岩・蒼白)"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "忘却の峡谷(天賦)"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "セシリアの苗床(武器突破素材)"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "西風の鷹の神殿"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "北風の狼の神殿"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "南風の獅子の神殿"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "チェスへの誘い (週ボス秘境)"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "鷹の門"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "風龍廃墟"
+    },
+    {
+        "area": "モンド",
+        "type": "D",
+        "description": "マスク礁"
+    },
+    {
+        "area": "璃月",
+        "type": "7S",
+        "description": "沈玉の谷・上谷"
+    },
+    {
+        "area": "璃月",
+        "type": "7S",
+        "description": "沈玉の谷・南峰"
+    },
+    {
+        "area": "璃月",
+        "type": "7S",
+        "description": "碧水の原"
+    },
+    {
+        "area": "璃月",
+        "type": "7S",
+        "description": "珉林"
+    },
+    {
+        "area": "璃月",
+        "type": "7S",
+        "description": "瓊璣野"
+    },
+    {
+        "area": "璃月",
+        "type": "7S",
+        "description": "雲来の海"
+    },
+    {
+        "area": "璃月",
+        "type": "7S",
+        "description": "璃沙郊"
+    },
+    {
+        "area": "璃月",
+        "type": "7S",
+        "description": "層岩巨淵"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・遺瓏埠北"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・遺瓏埠南東"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・瞑垣山北"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・霊濛山北西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・霊濛山北西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・翹英荘西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・翹英荘"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・霊濛山地下"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・霊濛山南西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・霊濛山南"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・翹英荘南西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・瞑垣山南"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・宝玦の口"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・宝玦の口地下"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・軽策荘対岸北"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・老茶樹の丘"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・東側宝玦の南麓（老茶樹西）"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・宝玦の口南"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・薬蝶の谷"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・薬蝶の谷西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・赤璋の石垣"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・赤璋の石垣7Sの西・赤望台との間"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・赤望台東"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・赤望台西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・薬蝶の谷南"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・山隠れの猊獣南"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・懸練山"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "沈玉の谷・懸練山南西・華光の林西・琥牢山北西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "碧水の原・石門"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "碧水の原・無妄の丘・純水精霊入口"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "碧水の原・軽策荘東"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "碧水の原・軽策荘西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "碧水の原・無妄の丘南"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "碧水の原・軽策荘南西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "碧水の原・地中の塩"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "碧水の原・望舒旅館"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "碧水の原・旧貴族秘境北"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "瓊璣野・明蘊町北"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "瓊璣野・明蘊町西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "瓊璣野・帰離原"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "瓊璣野・漉華の池東岸"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "瓊璣野・瑶光の浜"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "雲来の海・七天神像北東"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "雲来の海・七天神像東南東"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "雲来の海・璃月港を出て北"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "雲来の海・璃月港玉京台"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "雲来の海・璃月港合成台"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "雲来の海・天衡山北"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "雲来の海・天衡山南"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "雲来の海・群玉閣"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "雲来の海・孤雲閣"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "雲来の海・死兆星号"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・荻花洲及び望舒旅館対岸"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・旧貴族秘境東"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・奥蔵山"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・絶雲の間・奥蔵山東"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・慶雲頂"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・絶雲の間北北東"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・琥牢山"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・天賦秘境直上"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・翠決坡北"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・漉華の池西岸・爆炎樹入口"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・絶雲の間南西の山中腹"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・南天門"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・天穹の谷"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "珉林・天穹の谷南・遁玉の丘西"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "璃沙郊・天衡山西の山頂"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "璃沙郊・銅雀の堂"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "璃沙郊・霊矩関"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "璃沙郊・青墟浦南東"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "層岩巨淵・採樵の谷"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "層岩巨淵・地上鉱区・坑道入口"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "層岩巨淵・丹砂崖・スメール入口"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "層岩巨淵・地下鉱区最近傍"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "層岩巨淵・天工峡"
+    },
+    {
+        "area": "璃月",
+        "type": "WP",
+        "description": "層岩巨淵・層岩巨淵入口（青墟浦西）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "無妄引責密宮（火魔女秘境）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "華池岩岫（旧貴族秘境）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "震雷連山密宮（武器秘境）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "太山府（天賦秘境）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "「伏龍の木」の底（若陀龍王）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "離散人離の処（瓊璣野・帰離原・初回限定秘境）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "華清帰蔵密宮（瓊璣野・漉華の池・初回限定秘境）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "孤雲凌霄の処（悠久秘境）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "曲径通幽の処（璃沙郊・天衡山西・初回限定秘境）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "山間幽谷（辰砂秘境）"
+    },
+    {
+        "area": "璃月",
+        "type": "D",
+        "description": "「黄金屋」に入る（タルタリヤ）"
+    },
+    {
+        "area": "稲妻",
+        "type": "7S",
+        "description": "鳴神島 離島"
+    },
+    {
+        "area": "稲妻",
+        "type": "7S",
+        "description": "神無塚"
+    },
+    {
+        "area": "稲妻",
+        "type": "7S",
+        "description": "ヤシオリ島 緋木村"
+    },
+    {
+        "area": "稲妻",
+        "type": "7S",
+        "description": "海祇島 曚雲神社"
+    },
+    {
+        "area": "稲妻",
+        "type": "7S",
+        "description": "セイライ島"
+    },
+    {
+        "area": "稲妻",
+        "type": "7S",
+        "description": "鶴観"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "刃連島"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "離島 埠頭"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "離島 市街"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "荒海 山頂"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "荒海遺跡・地下二階"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "鳴神大社"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "紺田村北入口"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "紺田村内"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "鎮守の森"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "白狐の野"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "稲妻城内 冒険者協会前"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "稲妻城内 稲妻城前"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "神里屋敷前"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "九条陣屋"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "九条陣屋北 無相の炎前"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "たたら砂と九条陣屋の間 砲台前"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "たたら砂東小島 砲台前"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "たたら砂南 山頂"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "たたら砂北西"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "たたら砂東 山頂"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "名椎の浜 北"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "名椎の浜 西"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "藤兜砦 北"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "藤兜砦 西"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "蛇神の首の上 頂上"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "蛇骨鉱坑入口"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "海祇島 東小島"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "海祇島 望瀧村 東入口"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "海祇島 望瀧村 南"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "珊瑚宮"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "海祇島北"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "「セイライ丸」北"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "セイライ島 越石村"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "セイライ島 平海砦 北"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "セイライ島 平海砦 東島"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "セイライ島 平海砦 南山頂"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "セイライ島 浅瀬神社"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "セイライ島 天雲峠 北の浮島"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "セイライ島 天雲峠 東海岸"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "セイライ島 天雲峠 南の浮島"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "鶴観 東"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "鶴観 モシリ祭場"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "鶴観 チライ社殿"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "鶴観 シリコロ山"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "鶴観 アウタケ平原"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "鶴観 ワクカウ浜西"
+    },
+    {
+        "area": "稲妻",
+        "type": "WP",
+        "description": "鶴観 黄金王獣の西側"
+    },
+    {
+        "area": "稲妻",
+        "type": "D",
+        "description": "紅葉ノ庭 (聖遺物絶縁・しめ縄)"
+    },
+    {
+        "area": "稲妻",
+        "type": "D",
+        "description": "菫色ノ庭 (稲妻天賦素材)"
+    },
+    {
+        "area": "稲妻",
+        "type": "D",
+        "description": "熟眠ノ庭 (聖遺物海染・華館)"
+    },
+    {
+        "area": "稲妻",
+        "type": "D",
+        "description": "鳴神島・天守(週ボス 淑女)"
+    },
+    {
+        "area": "稲妻",
+        "type": "D",
+        "description": "夢想楽土の結末 (週ボス 雷電将軍)"
+    },
+    {
+        "area": "稲妻",
+        "type": "D",
+        "description": "鳴神島・千門の虚舟"
+    },
+    {
+        "area": "稲妻",
+        "type": "D",
+        "description": "たたら砂・借景ノ館"
+    },
+    {
+        "area": "稲妻",
+        "type": "D",
+        "description": "ヤシオリ島・陣代屋敷"
+    },
+    {
+        "area": "稲妻",
+        "type": "D",
+        "description": "海祇島・池の中にある邸宅"
+    },
+    {
+        "area": "稲妻",
+        "type": "D",
+        "description": "ヤシオリ島と鶴観の間の群島 モシリの殻"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "ローカパーラ密林 マウティーマ稠林"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "アビディアの森 ガンダルヴァー村"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "アルダラビ河谷 デーヴァーンタカ山 西"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "ヴァナラーナ"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "ヴィッシュッダ辺土"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "アシャヴァンレルム パルディスディアイ西"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "失われた苗畑"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "下風蝕地 アアル村"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "上風蝕地 ダーリの谷北"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "千尋の砂漠 タニット露営地"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "荒石の蒼漠 トゥニギの黒淵 東"
+    },
+    {
+        "area": "スメール",
+        "type": "7S",
+        "description": "ファラクケルトの園 甘露花海"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "傘蓋の庇護"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "緑覚の塔（聖遺物深森・金メッキ）"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "淨琉璃工房 (週ボス秘境・マシュ)"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "無学の塔（スメール天賦秘境）"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "ヴィシュッダ辺土 幼夢の欠片"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "河谷の闇路"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "晴雨の経緯"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "有頂の塔（スメール武器秘境）"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "亡者の都"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "赤金の廃城（聖遺物砂上・楽園）"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "赤砂の檻"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "五大オアシスの殿堂"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "ミラージュ祭場"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "千柱の花園"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "原初の郷（週ボス・草龍）"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "溶鉄の孤砦（聖遺物水仙・花海）"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "地中の香海"
+    },
+    {
+        "area": "スメール",
+        "type": "D",
+        "description": "浄罪の井戸"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ローカパーラ密林 地下"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ローカパーラ密林 中央部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ローカパーラ密林 南部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ガンダ丘 東部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ガンダ丘 西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "デーヴァーンタカ山 北部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アルダラビ河谷 地下"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アルダラビ河谷 地上"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アルダラビ河谷 西部(オルモス港西)"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アルダラビ河谷 北西部(ヴィマラ村西)"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "デーヴァンタカ山 西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "マウティーマ稠林 北部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "マウティーマ稠林 南部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "チャトラカム洞窟 地上 山頂付近"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "スメールシティ 東部 教令院前"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "スメールシティ 冒険者協会付近"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "スメールシティ 西入口"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "スメールシティ スラサタンナ聖処付近"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アビディアの森 浄瑠璃工房付近"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アビディアの森 中央部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アビディアの森 ヴィマラ森付近"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "オルモス港 中央部(橋上)"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "オルモス港 西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ヴィシュッダ辺土 北部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ヴィシュッダ辺土 北部地下"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ヴィシュッダ辺土 南東部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ヴィシュッダ辺土 西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ヴィシュッダ辺土 アシュヴァッタ神殿北部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ヴィシュッダ辺土 マッシュラプトル付近"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ヴィシュッダ辺土 マッシュラプト西部(砂漠付近)"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ヴァナラーナ 東入口"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アシャヴァンレルム 幼夢の欠片西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アシャヴァンレルム 幼夢の欠片東部山頂部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アシャヴァンレルム パルディスディアイ"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アシャヴァンレルム アパーム叢林 南東部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アシャヴァンレルム アパーム叢林 南部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アシャヴァンレルム アパーム叢林 西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アシャヴァンレルム アパーム叢林 北西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アシャヴァンレルム キャラバン宿駅 北東 山頂部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アシャヴァンレルム ダーリ遺跡 南部 山頂部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "失われた苗畑 地上部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "千尋の砂漠 精鋼の砂丘北部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "千尋の砂漠 アル・インキダの行宮部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "千尋の砂漠 アル・インキダの行宮 西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "千尋の砂漠 五大オアシスの殿堂 南西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "千尋の砂漠 五大オアシスの殿堂 北西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "千尋の砂漠 アルマジュジ峡谷付近"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "千尋の砂漠 千柱花園 北西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "千尋の砂漠 千柱花園 北東部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "千尋の砂漠 失脚の谷東部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "千尋の砂漠 失脚の谷西部地下"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ウェネトトンネル"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "亡者狭路"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "下風蝕地 赤金の廃城南部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "下風蝕地 赤砂の檻北部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "下風蝕地 無相の草付近"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "下風蝕地 ソベクオアシス北部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "下風蝕地 北東部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "下風蝕地 タニット露営地南部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "上風蝕地 上風蝕地7S北部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "上風蝕地 上風蝕地7S北西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "上風蝕地 上風蝕地7S西部地下"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "上風蝕地 上風蝕地南西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "上風蝕地 上風蝕地 北西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 ソベクオアシス付近"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 マトリックス東部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 鑠石の丘東部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 ミラージュ祭場南東部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 ミラージュ祭場南西部(権杖殿南部)"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 マトリックス北西部and鑠石の丘北東部 "
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 鑠石の丘北部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 キングデシェレトの霊廟南西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 キングデシェレトの霊廟北部 地下"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 キングデシェレトの霊廟 北西部(マップ端)地上部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 千柱の花園西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "列柱砂原 キングデシェレトの霊廟"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "神の碁盤 東部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "神の碁盤 西部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "聖顕殿"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アルマジュ峡谷"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アル・ムアザン宮殿"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ダマーヴァンド山"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アル・スクール宮殿 地上部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "アル・スクール宮殿 地下部"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "五大オアシスの遺構"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ファラクケルトの園 最北・フォンテーヌ最近傍"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ファラクケルトの園 忘れられし道・入口（北の洞窟）"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ファラクケルトの園 バルソムの丘南"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ファラクケルトの園 アシパトラ・ヴァナの沼 東 橋上"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ファラクケルトの園 アシパトラ・ヴァナの沼 南岸"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ファラクケルトの園 アシパトラ・ヴァナの沼 西 アル・ヌハスの都 入口"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ファラクケルトの園 アシパトラ・ヴァナの沼 西 地上"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ファラクケルトの園 甘露花海 南"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "ファラクケルトの園 甘露花海 南西洞窟内・甘露の池"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "荒石の蒼漠 トゥニギの黒淵北西・海岸方面地上"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "荒石の蒼漠 ドゥル・カルナイン峠・地下洞窟 海岸側入口"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "荒石の蒼漠 ドゥル・カルナイン峠 南西"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "荒石の蒼漠 ドゥル・カルナイン峠 南東"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "荒石の蒼漠 ドゥル・カルナイン峠 アフラシアブ洞窟西"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "荒石の蒼漠 トゥニギの黒淵 アフラシアブ洞窟東"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "荒石の蒼漠 鉄和山南・花海/水仙秘境東"
+    },
+    {
+        "area": "スメール",
+        "type": "WP",
+        "description": "荒石の蒼漠 最南 千尋の砂漠最寄り"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "7S",
+        "description": "ブロー地区 ロマリタイムハーバー"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "7S",
+        "description": "ベリル地区 エリナス"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "7S",
+        "description": "フォンテーヌ廷地区 パレ・メルモニア前"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "7S",
+        "description": "モルテ地区"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "7S",
+        "description": "ノストイ地区"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "7S",
+        "description": "リフィー地区"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "7S",
+        "description": "フォンテーヌ運動エネルギー工学科学研究院地区"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "7S",
+        "description": "エリニュス山林地区"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ベリル地区南南東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ベリル地区南南西"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "とても明るい場所"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "メリュシー村"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "とてもあったかい場所"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "啓示の書"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ベリル地区中央東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ベリル地区中央西"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "エリナス南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "エリナス東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "エリナス北東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "タルパ前"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "鉄甲溶炎帝王前"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "エルトン海溝南（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "エルトン海溝（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ブロー地区南西"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ポワソン町"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ウェストオトンヌキ"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "イーストオトンヌキ"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "モルテ地区水中南西（砲台あり）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "モルテ地区南西島"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "モルテ地区南島"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "モルテ地区中央（水上）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "イプシシマスの塔南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "イプシシマスの塔北"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "カリュブディス砦跡地下"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "カリュブディス砦跡南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "カリュブディス砦跡北"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "モルテ地区東（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "希望の道（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ廷地区西（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ廷地区東（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "サラシア海岸西（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "サラシア海岸南（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "サラシア海岸北（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "安眠の地西"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "安眠の地南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "自然哲学学院南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "自然哲学学院北"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "水仙十字結社"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "タラッタ海底谷南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "タラッタ海底谷北"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "冒険者協会前"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "サーンドール河"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ廷地区・ヴァザーリ回廊前"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ホテル・デュボール"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ廷外（エレベータ前）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ廷地区野外南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ廷地区野外中央（飛行船）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ廷地区野外東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "イースト・エスス山麓"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ルミドュースハーバー"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "エリニュス山林地区極東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ザ・ラスティ・ラダー"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "霧の幽林道東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "霧の幽林道西"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "エピクレス歌劇場南西"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ルキナ泉"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ルキナの泉東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "エリニュスの根"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "湖中のウィーピングウィロー南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "湖中のウィーピングウィロー東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ウラニア湖南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ポート・マルコット"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ウラニア湖西"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ運動工学科学研究院地区南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "実験用フィールド生成装置前"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ運動工学科学研究院地区南東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ運動工学科学研究院地区東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "中央実験室跡地南"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "中央実験室跡地"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "中央実験室跡地北"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ運動工学科学研究院地区水中"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ運動工学科学研究院地区北東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "新フォンテーヌ科学院"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ運動工学科学研究院地区西"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ運動工学科学研究院地区北西"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "フォンテーヌ運動工学科学研究院地区北"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "リフィー地区南（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "リフィー地区北（水中）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ペトリコール町入口（西）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "ペトリコール町中央"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "色褪せた城最下層"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "色褪せた城中層北"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "色褪せた城中層東"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "WP",
+        "description": "魔像レガトュス前"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "D",
+        "description": "災禍の終末（聖遺物ファントム・劇団）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "D",
+        "description": "滝を臨む廃都（聖遺物在日・残響）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "D",
+        "description": "蒼白の遺栄（フォンテーヌ天賦素材）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "D",
+        "description": "異界の余影（週ボス鯨）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "D",
+        "description": "深潮の余韻（フォンテーヌ武器秘境）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "D",
+        "description": "ぼろぼろの廃墟（週ボス召使）"
+    },
+    {
+        "area": "フォンテーヌ",
+        "type": "D",
+        "description": "色褪せた劇場（聖遺物断章・燃焼）"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "海柱の路"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "パレス・カエサレウム"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "旧ホルタス・アンティクス"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "ヤヌスの門南"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "ヤヌスの門中央"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "ヤヌスの門北"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "ホルトュス・ユーレゲティス"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "諧律院西"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "アルタ・セミタ西"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "アルタ・セミタ北"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "諧律院東"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "アルタ・セミタ東"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "カピトリヌス山北"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "ドムス・アウレア"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "安息の殿堂"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "かつての宮殿"
+    },
+    {
+        "area": "往日の海",
+        "type": "WP",
+        "description": "カピトリヌス山南"
+    },
+    {
+        "area": "ナタ",
+        "type": "7S",
+        "description": "テケメカンの谷 こだまの子"
+    },
+    {
+        "area": "ナタ",
+        "type": "7S",
+        "description": "コアテペック山 懸木の民"
+    },
+    {
+        "area": "ナタ",
+        "type": "7S",
+        "description": "万火のほとぎ 懸木の民北"
+    },
+    {
+        "area": "ナタ",
+        "type": "7S",
+        "description": "トヤック源泉地 流泉の衆東"
+    },
+    {
+        "area": "ナタ",
+        "type": "7S",
+        "description": "テスカテペトン山脈 謎煙の主東"
+    },
+    {
+        "area": "ナタ",
+        "type": "7S",
+        "description": "クァワカン断崖 花翼の集西"
+    },
+    {
+        "area": "ナタ",
+        "type": "7S",
+        "description": "オシカ・ナタ"
+    },
+    {
+        "area": "ナタ",
+        "type": "7S",
+        "description": "アトクパンの大地 豊穣の邦東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 秘源機兵・統御デバイス北"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 秘源機兵・統御デバイス東の孤島"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 天焔の冠南西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 天焔の冠南東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 天煙の冠北"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 聖火闘技場南西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 グーシィトース南"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 レムナント遺跡南東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 レムナント遺跡南西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 レムナント遺跡北"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 レムナント遺跡西（地上部）"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 星岩の墜落地南西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 星岩の墜落地北西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 豊穣の邦北"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 豊穣の邦東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 豊穣の邦東南東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 豊穣の邦東地下"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 豊穣の邦東北東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 輝ける溶岩の龍像地下"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 輝ける溶岩の龍像南南東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "アトクパンの大地 七天神像北北東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テスカテペトン山脈 テコロアパン湾"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テスカテペトン山脈 謎煙の主上"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テスカテペトン山脈 謎煙の主下"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テスカテペトン山脈 謎煙の主西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テスカテペトン山脈 謎煙の主南南西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テスカテペトン山脈 謎煙の主南"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テスカテペトン山脈 謎煙の主南地下"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テスカテペトン山脈 謎煙の主東南東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テスカテペトン山脈 聖火闘技場西北西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ ナーサリー・オブ・ナイトメアオチカン"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ トゾズ島"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 源火の玉座西 幻夢のクレイドル"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 源火の玉座西側の海岸"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 源火の玉座南西の海岸"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 源火の玉座北の地下"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 源火の玉座東 幻夢のクレイドル"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ トゾズ島西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ トゾズ島南"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 源火の玉座南"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 伝説の天蛇の船"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ アッシュフロー街"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ ヴクブ・カキシュの塔"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 昔日の統律の心"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ トゾズ島南東（地方伝説）銅の掟"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 燼火焼尽の地"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 昔日の統律の心東の地上"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 七天神像南"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "オシカ・ナタ 七天神像西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 ナタ入口"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 「こだまの子」"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 ティトゥとユカムの基地"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 西側のプラトーの山頂"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 波のジャプー付近"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷地下 聖道試練の遺跡・誓いの分かれ道"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷地下 聖道試練の遺跡・エントランスホール"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 硫晶の支脈 東入口"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 硫晶の支脈 中央プラトー上"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷地下 フレイムグレネードの樹の根本・ポカポカ洞窟入口付近"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 フレイムグレネードの樹付近 西側対岸"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷地下 コアテペック山の底 コンガマトー付近"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 硫晶の支脈 北部"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷地下 硫晶の支脈 万岩の地"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 硫晶の支脈"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 ウィッツトリの丘東側 岩の上"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "テケメカンの谷 硫晶の支脈"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "クァワカン断崖 花翼の集南西"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "クァワカン断崖 極北"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "クァワカン断崖 花翼の集北"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "クァワカン断崖 ミミックパピラ前"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "クァワカン断崖 浸食された石室交差点（地下）"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "クァワカン断崖 花翼の集南東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ ウィッツトリの丘"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ 暴君金焔のクク竜前"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ 聖火競技場冒険者協会前"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ 聖火競技場神殿・灼石の円盤（炎の印奉納場所）"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ 聖火競技場談義室（炎神の御部屋）"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ 聖火競技場入口"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ 聖火競技場郊外・北"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ 聖火競技場郊外・北東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ 聖火競技場郊外・東（ナタ勝利宴会場・みんなで書いた記録）"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ 懸木の谷に続く道"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "万火のほとぎ 山脈の亀裂（地下）"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山 先人の神殿 北東入口"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山 先人の神殿 北西入口"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山 先人の神殿 中央"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山 先人の神殿 南西の海岸 断崖の上"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山 先人の神殿 南東の海岸"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山地下 燃素採掘研究所 入口"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山 盗炎者の秘島"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山地下 彩晶の頂 岩山の中"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山 彩晶の頂 北側 「懸木の民」崖上"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山 彩晶の頂 東側"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "コアテペック山 「懸木の民」南入口"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "トヤック源泉地 彩晶の頂南側の海岸"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "トヤック源泉地地下 秘源機兵・機巧デバイス前"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "トヤック源泉地空中 静寂の浮遊島 東"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "トヤック源泉地空中 静寂の浮遊島 南"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "トヤック源泉地 アメヤルコの水域 東島山頂"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "トヤック源泉地 アメヤルコの水域 西島"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "トヤック源泉地 「流泉の衆」北入口"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "トヤック源泉地地下 地下マグマ流・下流"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "トヤック源泉地 アメヤルコの水域 中央付近の山頂"
+    },
+    {
+        "area": "ナタ",
+        "type": "WP",
+        "description": "トヤック源泉地 聖火競技場に続く洞窟の入口"
+    },
+    {
+        "area": "ナタ",
+        "type": "TP",
+        "description": "アトクパンの大地 豊穣の邦トーテムポール"
+    },
+    {
+        "area": "ナタ",
+        "type": "TP",
+        "description": "クァワカン断崖 花翼の集トーテムポール"
+    },
+    {
+        "area": "ナタ",
+        "type": "TP",
+        "description": "テスカテペトン山脈 謎煙の主トーテムポール（地下）"
+    },
+    {
+        "area": "ナタ",
+        "type": "TP",
+        "description": "テケメカンの谷 こだまの子トーテムポール"
+    },
+    {
+        "area": "ナタ",
+        "type": "TP",
+        "description": "コアテペック山 懸木の民トーテムポール"
+    },
+    {
+        "area": "ナタ",
+        "type": "TP",
+        "description": "トヤック源泉池 流泉の衆トーテムポール"
+    },
+    {
+        "area": "ナタ",
+        "type": "D",
+        "description": "コアテペック山 秘炎の幽墟 (天賦秘境)"
+    },
+    {
+        "area": "ナタ",
+        "type": "D",
+        "description": "トヤック源泉地 レインボースピリットの地 (聖遺物黒曜・絵巻)"
+    },
+    {
+        "area": "ナタ",
+        "type": "D",
+        "description": "テケメカンの谷 古の展望台 (武器突破素材)"
+    },
+    {
+        "area": "ナタ",
+        "type": "D",
+        "description": "テスカテペトン山脈 石碑の記録 (週ボス)"
+    },
+    {
+        "area": "ナタ",
+        "type": "D",
+        "description": "アトクパンの大地 荒れ果てた創造の地 (聖遺物誓い・終曲)"
+    }
+]
