@@ -34,6 +34,7 @@ with open("settings.json", encoding="utf-8") as f:
 # 有効化されたロケーションだけ抽出
 active_locations = [loc for loc in locations if settings.get(loc["area"], False)]
 
+# ゲームに参加する人数設定
 nmember = 4
 
 # ゲーム状態を保持する辞書: channel_id -> state
