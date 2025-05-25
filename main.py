@@ -1,4 +1,3 @@
-# bot.py
 # discord.py を使った「同期ゲームセッション」ボット
 
 import json
